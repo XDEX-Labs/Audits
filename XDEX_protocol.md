@@ -1,8 +1,9 @@
   # XDEX, Staking, and Farming Audit Reports
   
-  <div align="center">
-  <img src="../logo/logo.png" width="200" height="200" alt="OShield Logo">
-  </div>
+<div align="center">
+  <img src="https://github.com/oshieldio/Publications/raw/main/logo/logo.png" width="200" height="200" alt="Oshield Logo">
+</div>
+
   
   **Authors:**  
   David P – david@oshield.io
